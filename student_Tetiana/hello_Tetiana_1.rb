@@ -1,1 +1,1 @@
-I have changed first file
+puts "Hello, #{ARGV.first}!"
