@@ -1,1 +1,1 @@
-And second file too
+puts "Hello, #{ARGV.first}!"
