@@ -1,1 +1,1 @@
-And even the third
+puts "Hello, #{ARGV.first}!"
