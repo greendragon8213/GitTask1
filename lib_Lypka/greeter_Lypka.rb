@@ -4,6 +4,7 @@ def initialize(who)
 
 @who = who
 #smth
+# new new new
 
 end
 
